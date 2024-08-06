@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Reset Repository
-=======
 # Leisure Compass
 Content Suggesting System based on User's personality & mood
 
