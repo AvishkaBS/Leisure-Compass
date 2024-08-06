@@ -35,9 +35,3 @@ The internet offers a vast array of digital content, including movies, music, bo
 <img src="https://github.com/user-attachments/assets/ddfba484-b7d6-4e0d-b071-266ad1321396" alt="Logo" width="700" /><br><br>
 <img src="https://github.com/user-attachments/assets/4b0e7389-1c34-40be-8b88-18b3a1906d98" alt="Logo" width="700" /><br><br>
 <img src="https://github.com/user-attachments/assets/0cc08c74-ba9f-4cd2-905f-27e7082594d5" alt="Logo" width="700" />
-
-
-
-
-
->>>>>>> cea5407 (Project Update)
